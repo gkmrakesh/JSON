@@ -1,0 +1,55 @@
+{
+  "config": {
+    "type": "custom",
+    "id": "summerDeals",
+    "name": "Deals and Offers",
+    "template": "customTextImageActionCard1"
+  },
+  "cardContent": [
+    {
+      "display": {
+        "priority": "1",
+        "cardId": "17",
+        "title": "Cool Deals",
+        "banner": "http://mhfeedbacktomcat.azurewebsites.net/json/BKK.jpg",
+        "icon": "",
+        "primaryMessage": "Connect your travel dots way up high",
+        "secondaryMessage": "Book now to grab this deal and fly Beirut. The price is starting from 463.34 USD",
+        "primaryButton": "Book Now",
+        "titleBackgroundColor": "#00FF00",
+        "primaryButtonColor": "#00FF00"
+      },
+      "action": {
+        "pageId": "bookaflight",
+        "params": [
+          {
+            "key": "cabinClass",
+            "value": "B"
+          },
+          {
+            "key": "tripTypes",
+            "value": [
+              "R"
+            ]
+          },
+          {
+            "key": "originLocationCode",
+            "value": "SXF"
+          },
+          {
+            "key": "destinationLocationCode",
+            "value": "BEY"
+          },
+          {
+            "key": "travelStart",
+            "value": "2018-01-19 00:00:00.0"
+          },
+          {
+            "key": "travelEnd",
+            "value": "2018-02-09 00:00:00.0"
+          }
+        ]
+      }
+    }
+  ]
+}
