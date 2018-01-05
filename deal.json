@@ -16,8 +16,8 @@
         "primaryMessage": "Connect your travel dots way up high",
         "secondaryMessage": "Book now to grab this deal and fly Beirut. The price is starting from 463.34 USD",
         "primaryButton": "Book Now",
-        "titleBackgroundColor": "#00FF00",
-        "primaryButtonColor": "#00FF00"
+        "titleBackgroundColor": "#ff0000",
+        "primaryButtonColor": "#ff0000"
       },
       "action": {
         "pageId": "bookaflight",
