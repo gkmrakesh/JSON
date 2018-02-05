@@ -1,5 +1,7 @@
 # PROJECT
 
+[![Build Status](https://dl.dropboxusercontent.com/s/nq4pz1383hd4rlw/deal.json)](https://travis-ci.org/ReSwift/ReSwift)
+
 Mobile Digital Platform is a comprehensive solution for all airline needs. Provide extreme decoupling, selecting flows on the fly, themeing, configurations.
 It is rich in terms of technology and way to use it.
 
