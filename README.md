@@ -1,6 +1,6 @@
 # PROJECT
 
-[![Build Status](https://dl.dropboxusercontent.com/s/nq4pz1383hd4rlw/deal.json)](https://travis-ci.org/ReSwift/ReSwift)
+[![Build Status](https://rndwww.nce.amadeus.net/git/projects/MOB/repos/merci-mdp-ios/browse/MeRCIapp/MeRCIapp/Resources/Images/Image.xcassets/img_card_clock_grey.imageset/img_card_clock_grey_1x.png)](https://travis-ci.org/ReSwift/ReSwift)
 
 Mobile Digital Platform is a comprehensive solution for all airline needs. Provide extreme decoupling, selecting flows on the fly, themeing, configurations.
 It is rich in terms of technology and way to use it.
