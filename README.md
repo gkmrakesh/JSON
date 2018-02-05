@@ -1,4 +1,4 @@
-# PROJECT
+# PROJECT 123
 
 [![Build Status](http://test96.dev.amadeus.net/plnext/default/merci_1802.12_020218/static/merciNG/images/others/homepage_logo.png)](https://travis-ci.org/ReSwift/ReSwift)
 
@@ -29,7 +29,7 @@ It is rich in terms of technology and way to use it.
     <img src="MeRCIapp/AppImages/Coverage.png" width="1760" height="368" />
 </p>
 
-## Author
+## Authors
 
 MDP team
 
