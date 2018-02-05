@@ -1,6 +1,6 @@
 # PROJECT
 
-[![Build Status](http://test96.dev.amadeus.net/plnext/default/merci_1802.12_020218/static/merciNG/images/others/merci_logo_new.png)](https://travis-ci.org/ReSwift/ReSwift)
+[![Build Status](http://test96.dev.amadeus.net/plnext/default/merci_1802.12_020218/static/merciNG/images/others/homepage_logo.png)](https://travis-ci.org/ReSwift/ReSwift)
 
 Mobile Digital Platform is a comprehensive solution for all airline needs. Provide extreme decoupling, selecting flows on the fly, themeing, configurations.
 It is rich in terms of technology and way to use it.
